@@ -85,8 +85,8 @@ Collection of useful video courses and list of resources which helped me to crea
 - [Front End Development Trends 2020](https://fireart.studio/blog/front-end-development-trends-2020-most-popular-javascript-frameworks/)
 
 ### Validate HTML online
-[https://validator.w3.org/](https://validator.w3.org/)
-[https://www.freeformatter.com/html-validator.html](https://www.freeformatter.com/html-validator.html)
+- [https://validator.w3.org/](https://validator.w3.org/)
+- [https://www.freeformatter.com/html-validator.html](https://www.freeformatter.com/html-validator.html)
 
 
 ### Download roadmap

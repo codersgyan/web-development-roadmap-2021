@@ -14,6 +14,7 @@ Collection of useful video courses and list of resources which helped me to crea
 - [CSS Flex](https://www.youtube.com/watch?v=JJSoEo8JSnc)
 - [CSS Flex (Hindi)](https://www.youtube.com/watch?v=7WE_K7NDL0s)
 - [CSS Grid](https://www.youtube.com/watch?v=EFafSYg-PkI)
+- [Tailwind Css](https://www.youtube.com/watch?v=91evwKVzGRE)
 
 ##### JavaScript (Basics):
 - [JavaScript](https://www.youtube.com/watch?v=W6NZfCO5SIk&t=261s)
@@ -82,6 +83,10 @@ Collection of useful video courses and list of resources which helped me to crea
 - [JavaScript and Web Development InfoQ Trends Report 2020](https://www.infoq.com/articles/javascript-web-development-trends-2020/)
 - [Web Development Trends and the Latest Web Technology Stacks in 2020](https://clockwise.software/blog/web-development-trends/)
 - [Front End Development Trends 2020](https://fireart.studio/blog/front-end-development-trends-2020-most-popular-javascript-frameworks/)
+
+### Validate HTML online
+[https://validator.w3.org/](https://validator.w3.org/)
+[https://www.freeformatter.com/html-validator.html](https://www.freeformatter.com/html-validator.html)
 
 
 ### Download roadmap
